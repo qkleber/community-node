@@ -1,0 +1,57 @@
+These are the proposed upgrade migration configurations  
+Server resize takes approximately 15 minutes.
+Next build out will split off http & exim services
+
+Linode 8GB
+$40/mo
+($.06/hr)
+8 	GB RAM
+4 	CPU Cores
+96 	GB SSD Storage
+4 	TB Transfer
+40 	Gbps Network In
+1000 	Mbps Network Out
+
+
+Linode 12GB
+$80/mo
+($.12/hr)
+12 	GB RAM
+6 	CPU Cores
+192 	GB SSD Storage
+8 	TB Transfer
+40 	Gbps Network In
+1000 	Mbps Network Out
+
+
+Linode 60GB
+$240/mo
+($.36/hr)
+60 	GB RAM
+4 	CPU Cores
+90 	GB SSD Storage
+7 	TB Transfer
+40 	Gbps Network In
+3000 	Mbps Network Out
+
+
+Linode 100GB
+$480/mo
+($.72/hr)
+100 	GB RAM
+8 	CPU Cores
+200 	GB SSD Storage
+8 	TB Transfer
+40 	Gbps Network In
+6000 	Mbps Network Out
+
+
+Linode 200GB
+$960/mo
+($1.44/hr)
+200 	GB RAM
+16 	CPU Cores
+340 	GB SSD Storage
+9 	TB Transfer
+40 	Gbps Network In
+10000 	Mbps Network Out
