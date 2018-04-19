@@ -1,6 +1,6 @@
 These are the proposed upgrade migration configurations  
 Server resize takes approximately 15 minutes.
-
+Next build out will split off http & exim services
 
 Linode 8GB
 $40/mo
