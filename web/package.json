@@ -5,8 +5,8 @@
   "private": "true",
   "main": "website.js",
   "scripts": {
-    "build-css": "stylus source/stylesheets/index.styl -o static/css",
-    "watch-css": "stylus source/stylesheets/index.styl -o static/css -w",
+    "build-css": "stylus source/css/index.styl -o static/css",
+    "watch-css": "stylus source/css/index.styl -o static/css -w",
     "clean": "rm -rf static/css && mkdir -p static/css",
     "build": "npm run clean && npm run build-css",
     "watch": "npm run clean && npm run watch-css & nodemon website -e js,jade",
