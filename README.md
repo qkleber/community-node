@@ -3,7 +3,7 @@ TRON Community Super Representative and Node
 
 Since a Super Representative is actually a collection of people backed by an organization, I thought "what if the members of the Reddit, Twitter, and YouTube community banded together to become a SR Organization?" There won't be a seat at the table for any of us, but perhaps there's one for all of us. Alone we stand zero chance of winning an election, but together we can vote ourselves in.
 
-I will be running a main.net node from day one, on just a small VM slice. My goal is uptime and reliability. If there is enough support for my idea I will start a dapp based token with 10,000 TRX. Community members can purchase these tokens with TRX to buy an owner's stake in the SR node's daily rewards, which will be split with TRX holders who voted for this node as Super Representative. How much more the owners get will be voted upon by token holders Board of Directors.
+I will be running a main.net node from day one, on just a small VM slice. My goal is uptime and reliability. If there is enough support for my idea I will start a dapp based token with 10,000 TRX. Community members can purchase these tokens with TRX to buy an owner's stake in the SR node's daily rewards, which will be split with TRX holders who voted for this node as Super Representative. How much more the owners get will be voted upon by token holders.
 
 The proceeds from the sale of tokens will be used as a reserve to fund a scale-out in the event that our node becomes a Super Representative Candidate. The scale-out of the server will increase with its participation as an earning Super Representative. After the equivalent dollar value of 10000 TRX has been spent another round of tokens may be issued under a similar contract.
 
