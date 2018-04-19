@@ -1,6 +1,21 @@
-var http = require('http');
-http.createServer(function (req, res) {
-  res.writeHead(200, {'Content-Type': 'text/plain'});
-  res.end('Community Node for the TRON Main Net\n');
-}).listen(8080, 'APP_PRIVATE_IP_ADDRESS');
-console.log('Server running at http://APP_PRIVATE_IP_ADDRESS:8080/');
+var express = require('express')
+  , logger = require('morgan')
+  , app = express()
+  , template = require('jade').compileFile(__dirname + '/web/homepage.jade')
+
+app.use(logger('dev'))
+app.use(express.static(__dirname + '/static'))
+
+app.get('/', function (req, res, next) {
+  try {
+    var html = template({ title: 'Home' })
+    res.send(html)
+  } catch (e) {
+    next(e)
+  }
+})
+
+app.listen(process.env.PORT || 80, function () {
+  console.log('Listening on http://localhost:' + (process.env.PORT || 80))
+})
+
