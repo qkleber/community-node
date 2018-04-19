@@ -3,9 +3,13 @@ TRON Community Super Representative and Node
 
 Since a Super Representative is actually a collection of people backed by an organization, I thought "what if the members of the Reddit, Twitter, and YouTube community banded together to become a SR Organization?" There won't be a seat at the table for any of us, but perhaps there's one for all of us. Alone we stand zero chance of winning an election, but together we can vote ourselves in.
 
-I will be running a main.net node from day one, on just a small VM slice. My goal is uptime and reliability. If there is enough support for my idea I will start a dapp based token with 10,000 TRX. Community members can purchase these tokens with TRX to buy an owner's stake in the SR node's daily rewards, which will be split with TRX holders who voted for this node as Super Representative. How much more the owners get will be voted upon by token holders.
+I will be running a cloud based MainNet node from day one, starting with a 2 CPU VM. My goal is uptime and reliability. If there is enough support for my idea I will start a dapp based token with 10,000 TRX. Community members who wish to take on the responsibilities of management can purchase dapp tokens for voting rights. The primary question for token elections will be the amount of TRX rewards payout to be shared with TRX holders who voted for this node as Super Representative. 
 
-The proceeds from the sale of tokens will be used as a reserve to fund a scale-out in the event that our node becomes a Super Representative Candidate. The scale-out of the server will increase with its participation as an earning Super Representative. After the equivalent dollar value of 10000 TRX has been spent another round of tokens may be issued under a similar contract.
+The proceeds from the sale of tokens will be used as a reserve to fund a scale-out in the event that our node becomes a Super Representative. Currently the cost of running the node is $20 per month. The server will migrate up one level after Candidacy has been reached, and again a second level up if elected to be one of the 27 Super Representatives.
+
+Of paramount importance is completing Stage I of our technical migration to a 16 CPU VM. The cost of running the server for two months will be subtracted from first day of Super Representative rewards before token based, or vote based rewards distributions shall occur.
+
+The scale-out of the server will increase with its participation as an earning Super Representative. 
 
 Management of the server will initially be left to me and I will document the server build to accept open source contributions, because I know what I'm doing but I don't know everything. There will be a board of directors and a clear line of succession for system administrators. A dead man's switch will be set so if I fail to login for a predetermined length of time (think a week or so) then the #2 will gain my ssh private key and other pertinent admin info. This will be a 24/7/365 full time job and pay ought to be commensurate with the growing responsibility, and will be provided in both TRX coins and dapp tokens. It will begin as a volunteer position.
 
