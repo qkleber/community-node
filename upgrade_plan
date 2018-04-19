@@ -1,5 +1,5 @@
+These are the proposed upgrade migration configurations  
 Server resize takes approximately 15 minutes.
-
 
 
 Linode 8GB
@@ -22,27 +22,6 @@ $80/mo
 8 	TB Transfer
 40 	Gbps Network In
 1000 	Mbps Network Out
-
-Linode 16GB
-$60/mo
-($.09/hr)
-16 	GB RAM
-1 	CPU Core
-20 	GB SSD Storage
-5 	TB Transfer
-40 	Gbps Network In
-1000 	Mbps Network Out
-
-
-Linode 32GB
-$120/mo
-($.18/hr)
-32 	GB RAM
-2 	CPU Cores
-40 	GB SSD Storage
-6 	TB Transfer
-40 	Gbps Network In
-1500 	Mbps Network Out
 
 
 Linode 60GB
