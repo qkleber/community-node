@@ -1,15 +1,19 @@
-· Our recommendation:
+# CURRENT CONFIGURATION
+
+4 	GB RAM
+2 	CPU Cores
+48 	GB SSD Storage
+3 	TB Monthly Transfer
+40 	Gbps Network In
+1000 	Mbps Network Out
+
+($20 / month)
+
 
 · Suggestion Configuration:
-
 · AWS x1.16xlarge
-
 · CPU: 64 cores
-
 RAM: 1T
-
 SSD: 1T(EBS)
-
 Network: 25Gbps
-
 (Estimated Cost: $40,000)
