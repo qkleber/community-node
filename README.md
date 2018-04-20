@@ -13,7 +13,7 @@ The scale-out of the server will increase with its participation as an earning S
 
 Management of the server will initially be left to me and I will document the server build to accept open source contributions, because I know what I'm doing but I don't know everything. There will be a board of directors and a clear line of succession for system administrators. A dead man's switch will be set so if I fail to login for a predetermined length of time (think a week or so) then the #2 will gain my ssh private key and other pertinent admin info. This will be a 24/7/365 full time job and pay ought to be commensurate with the growing responsibility, and will be provided in both TRX coins and dapp tokens. It will begin as a volunteer position.
 
-I will start hosting the project as beans.bondibox.com and upon token creation buy an appropriately named domain. The website will begin as a node.js API because this will have the smallest footprint, it's fast, and will be the easiest to turn into a TRON main net dapp. I'd like to redirect ERROR level log warnings to the website to provide a System Status page.
+I will start hosting the project at [http://beans.bondibox.com](http://beans.bondibox.com) and upon token creation buy an appropriately named domain. The website will begin as a node.js API because this will have the smallest footprint, it's fast, and will be the easiest to turn into a TRON main net dapp. I'd like to redirect ERROR level log warnings to the website to provide a System Status page.
 
 There will be a need for several part-time employees of the organization who will also earn TRX and dapp tokens. 
 
@@ -25,6 +25,6 @@ At today's value of appx .04¢ per TRX, there will be approximately $110,000 in 
 
 Now consider that only a few of the SRs will be voted in every day of the year, but that all of the candidates must maintain a server 365. Clearly, this is not a get-rich-quick proposal. Then again, TRX was .30¢ for a fleeting moment and if it could sustain those levels it would change the financial viability of this proposal.
 
-That being said, the TRX Community Token is not an investment opportunity. 98% of the earned rewards will be rewarded to TRX voters who maintain our position as an earning Super Representative. TRX is the real investment. A TRX holder who faithfully votes every single day, and who successfully spends every vote on winning Super Representatives can earn at most 1% annually. 
+That being said, the TRX Community Token is not an investment opportunity. 98% of the earned rewards will be rewarded to the TRX voters who maintain our position as an earning Super Representative. TRX is the real investment. A TRX holder who faithfully votes every single day, and who successfully spends every vote on winning Super Representatives can earn 1.5% annually. But what about when votes are thrown away on losing candidates or not used at all? That would increase the daily reward-per-vote for TRX holders who chose to participate and whose candidates won.
 
 The goal of TRX Community Token is to create a broad base of support among TRX coin holders who wish to wield their inherent right to participate in the management of the TRON network. Our intention is to become self-empowering; that by giving TRX holders a stake in one of the candidates they will be more likely to vote for that candidate.
