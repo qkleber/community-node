@@ -11,12 +11,13 @@ Network: 25Gbps
 
 
 # CURRENT CONFIGURATION
+2500 MHz Intel(R) Celeron(R) M processor
 4 	GB RAM
 2 	CPU Cores
 48 	GB SSD Storage
 40 	Gbps Network In
 1000 	Mbps Network Out
-
+8 GB Swap
 
 
 **STAGE 1 SERVER**
