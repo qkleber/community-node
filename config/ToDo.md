@@ -3,4 +3,4 @@ cron jobs
  - cleanup .gradle bloat
 
 daemonize java-tron
-
+separate mail & web server

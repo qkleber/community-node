@@ -1,13 +1,27 @@
 These are the proposed upgrade migration configurations  
 Server resize takes approximately 15 minutes.
-Next build out will split off http & exim services
+
+
+# Suggestion Configuration:
+· AWS x1.16xlarge
+· CPU: 64 cores
+RAM: 1T
+SSD: 1T(EBS)
+Network: 25Gbps
+
+
+# CURRENT CONFIGURATION
+4 	GB RAM
+2 	CPU Cores
+48 	GB SSD Storage
+40 	Gbps Network In
+1000 	Mbps Network Out
+
+
 
 **STAGE 1 SERVER**
 
 **SUPER REPRESENTATIVE CANDIDATE LEVEL**
-Linode 8GB
-$40/mo
-($.06/hr)
 8 	GB RAM
 4 	CPU Cores
 96 	GB SSD Storage
@@ -16,9 +30,6 @@ $40/mo
 1000 	Mbps Network Out
 
 **SUPER REPRESENTATIVE LEVEL I**
-Linode 12GB
-$80/mo
-($.12/hr)
 12 	GB RAM
 6 	CPU Cores
 192 	GB SSD Storage
@@ -27,9 +38,6 @@ $80/mo
 1000 	Mbps Network Out
 
 **SUPER REPRESENTATIVE LEVEL II**
-Linode 60GB
-$240/mo
-($.36/hr)
 60 	GB RAM
 4 	CPU Cores
 90 	GB SSD Storage
@@ -38,9 +46,6 @@ $240/mo
 3000 	Mbps Network Out
 
 **SUPER REPRESENTATIVE LEVEL III**
-Linode 100GB
-$480/mo
-($.72/hr)
 100 	GB RAM
 8 	CPU Cores
 200 	GB SSD Storage
@@ -49,9 +54,6 @@ $480/mo
 6000 	Mbps Network Out
 
 **SUPER REPRESENTATIVE LEVEL IV**
-Linode 200GB
-$960/mo
-($1.44/hr)
 200 	GB RAM
 16 	CPU Cores
 340 	GB SSD Storage

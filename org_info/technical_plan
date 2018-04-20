@@ -1,12 +1,9 @@
+This node is starting off in the Linode cloud to alleviate the vulnerability of having too many nodes hosted on AWS, eventually migrating to a Rackspace managed OnMetal server. No additional VM software or containerization overhead needs to be added since this is a dedicated server.
+
+Next build out will split off http and add exim mail & dns services to a small slice nanode VM, and also give a testable node for community members.
+
+
 # CURRENT CONFIGURATION
-
-4 	GB RAM
-2 	CPU Cores
-48 	GB SSD Storage
-40 	Gbps Network In
-1000 	Mbps Network Out
-($20 / month)
-
 Debian GNU/Linux 9.1 (stretch)
 4.15.12-x86_64-linode105
 
@@ -15,7 +12,6 @@ Version: 8u161-1~webupd8~0
 
 PORTS OPEN:
 80/tcp
-443/tcp
 8088/tcp
 18888/tcp
 18888/udp
@@ -23,14 +19,3 @@ PORTS OPEN:
 50051/udp
 *****/tcp
 
-
-
-
-
-· Suggestion Configuration:
-· AWS x1.16xlarge
-· CPU: 64 cores
-RAM: 1T
-SSD: 1T(EBS)
-Network: 25Gbps
-(Estimated Cost: $40,000)
