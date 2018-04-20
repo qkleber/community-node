@@ -7,7 +7,7 @@ I will be running a cloud based MainNet node from day one, starting with a 2 Cor
 
 The proceeds from the sale of tokens will be used as a reserve to fund a scale-out in the event that our node becomes a Super Representative. Currently the cost of running the node is $20 per month. The server will migrate up one level after Candidacy has been reached, and again a second level up if elected to be one of the 27 Super Representatives.
 
-Of paramount importance is completing Stage I of our technical migration to a 16 CPU VM. The cost of running the server for two months will be subtracted from Super Representative rewards before any token based, or vote based rewards distributions shall occur.
+Of paramount importance is completing Stage I of our technical migration to a 16 Core VM. The cost of running the server for two months will be subtracted from Super Representative rewards before any token based, or vote based rewards distributions shall occur.
 
 The scale-out of the server will increase with its participation as an earning Super Representative. 
 
