@@ -2,6 +2,9 @@ These are the proposed upgrade migration configurations
 Server resize takes approximately 15 minutes.
 Next build out will split off http & exim services
 
+**STAGE 1 SERVER**
+
+**SUPER REPRESENTATIVE CANDIDATE LEVEL**
 Linode 8GB
 $40/mo
 ($.06/hr)
@@ -12,7 +15,7 @@ $40/mo
 40 	Gbps Network In
 1000 	Mbps Network Out
 
-
+**SUPER REPRESENTATIVE LEVEL I**
 Linode 12GB
 $80/mo
 ($.12/hr)
@@ -23,7 +26,7 @@ $80/mo
 40 	Gbps Network In
 1000 	Mbps Network Out
 
-
+**SUPER REPRESENTATIVE LEVEL II**
 Linode 60GB
 $240/mo
 ($.36/hr)
@@ -34,7 +37,7 @@ $240/mo
 40 	Gbps Network In
 3000 	Mbps Network Out
 
-
+**SUPER REPRESENTATIVE LEVEL III**
 Linode 100GB
 $480/mo
 ($.72/hr)
@@ -45,7 +48,7 @@ $480/mo
 40 	Gbps Network In
 6000 	Mbps Network Out
 
-
+**SUPER REPRESENTATIVE LEVEL IV**
 Linode 200GB
 $960/mo
 ($1.44/hr)
@@ -55,3 +58,13 @@ $960/mo
 9 	TB Transfer
 40 	Gbps Network In
 10000 	Mbps Network Out
+
+
+
+**STAGE 2 SERVER**
+RackSpace Bare Metal Server
+
+CPU: 64 cores
+RAM: 1T
+SSD: 1T(EBS)
+Network: 25Gbps
