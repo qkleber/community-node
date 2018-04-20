@@ -1,5 +1,5 @@
 {
-  "name": "CommunityNode",
+  "name": "communitynode",
   "version": "0.1.0",
   "description": "Small footprint website in node js",
   "private": "true",
@@ -20,5 +20,18 @@
     "morgan": "^1.9.0",
     "nodemon": "^1.9.2",
     "stylus": "^0.54.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bondibox/community-node.git"
+  },
+  "keywords": [
+    "tron",
+    "blockchain"
+  ],
+  "bugs": {
+    "url": "https://github.com/bondibox/community-node/issues"
+  },
+  "homepage": "https://github.com/bondibox/community-node#readme"
 }
