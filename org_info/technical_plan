@@ -2,8 +2,7 @@ This node is starting off in the Linode cloud to alleviate the vulnerability of 
 eventually migrating to a Rackspace managed OnMetal server. No additional VM software or containerization overhead needs 
 to be added since this is a dedicated server.
 
-Next build out will split off http and add exim mail & dns services to a small slice nanode VM, and also provide a testable node 
-for community members.
+Next build out will split off http and add exim mail & dns services to a small slice nanode VM, and also provide a testable node for community members.
 
 
 # CURRENT CONFIGURATION
@@ -20,5 +19,5 @@ PORTS OPEN:
 18888/udp
 50051/tcp
 50051/udp
-*****/tcp
+*****/tcp (ssh)
 
