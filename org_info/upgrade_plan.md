@@ -2,7 +2,7 @@ These are the proposed upgrade migration configurations
 Server resize takes approximately 15 minutes.
 
 
-# Suggestion Configuration:
+### Suggestion Configuration:
 · AWS x1.16xlarge
 · CPU: 64 cores
 RAM: 1T
@@ -10,7 +10,7 @@ SSD: 1T(EBS)
 Network: 25Gbps
 
 
-# CURRENT CONFIGURATION
+### CURRENT CONFIGURATION
  2500 MHz Intel(R) Celeron(R) M processor  
  4 	GB RAM  
  2 	CPU Cores  

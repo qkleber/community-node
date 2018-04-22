@@ -6,12 +6,12 @@ I currently bear the sole expense of the server and will stake all coins needed 
 
 At this point I believe an investment on infrastructure will return a greater participation as a block creating node, and I will launch a TRX-20 based token.
 
-The current proposal is to create a $TGNT token with 10,000,000 coins authorized. It will have a 1:1 ratio to the TRX coin. 1,000,000 coins will be offered during the ICO. The remaining coins will be used to pay employees of the organization.
+The current proposal is to create a TGNT token with 10,000,000 coins authorized. It will have a 1:1 ratio to the TRX coin. 1,000,000 coins will be offered during the ICO. The remaining coins will be used to pay employees of the organization.
 
 There will be a need for several part-time employees who will also earn TRX and tokens. 
 
 
-Every day the network will generate a little more than 2,750,000 TRX in payouts. That's about a billion TRX per year. The daily payout will be delegated to the 27 Super Representatives for vote based rewards. In other words, the Super Representatives will earn TRX daily, but in order to maintain elected power those Super Representatives must reward the TRX holders who voted for them. They say the other coins' SR's end up keeping about 1%-2% of the daily payout.
+ 
 
 At today's value of appx .04¢ per TRX, there will be approximately $110,000 in daily rewards up for stake, or $40 million per year. 2% would be about $2200 a day, and split between the 27 Super Representatives, it comes to an average of $30,000 per year per SR. The recommended AWS cloud server config costs $40,000 per year.
 

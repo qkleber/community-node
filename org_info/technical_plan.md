@@ -5,21 +5,21 @@ to be added since this is a dedicated server.
 Next build out will split off http and add exim mail & dns services to a small slice nanode VM, and also provide a testable node for community members.
 
 
-# CURRENT CONFIGURATION
+### CURRENT CONFIGURATION
 Debian GNU/Linux 9.1 (stretch)
 4.15.12-x86_64-linode105
 
 oracle-java8
-Version: 8u161-1~webupd8~0
+Version: 8u161-1\~webupd8\~0
 
-PORTS OPEN:
-80/tcp
-8088/tcp
-18888/tcp
-18888/udp
-50051/tcp
-50051/udp
-*****/tcp (ssh)
+PORTS OPEN:  
+ 80/tcp  
+ 8088/tcp  
+ 18888/tcp  
+ 18888/udp  
+ 50051/tcp  
+ 50051/udp  
+ *****/tcp (ssh)  
 
 The node will be configured according to the instructions at my [Witness Node for Newbies guide](https://www.reddit.com/r/tronsupport/comments/8beglx/witness_node_for_newbies)
 

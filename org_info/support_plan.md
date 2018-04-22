@@ -1,4 +1,4 @@
-TRON Groupsource Node Token ($TGNT)  Organizational / Support Plan
+TRON Groupsource Node Token (TGNT)  Organizational / Support Plan
 
 
 * CEO - Oversees other roles, ensures compliance calendar is followed
@@ -11,38 +11,27 @@ TRON Groupsource Node Token ($TGNT)  Organizational / Support Plan
 
 
 
-• CTO - Jason Neely has been maintaining a unix server almost constantly since 1998 when he began work as an Apple 
-Retail Representative and installed RedHat on his iMac. He then went on to be a Tier 2 technician for Darwin 
-Networks, and after the dot.com bust he found work on political and advocacy campaigns including the Louisville 
-Affordable Housing Trust Fund's Open the Door campaign. He is still one of the last few Ruby on Rails enthusiasts.
+• CTO - [Jason Neely](./jason_neely.jpg) has been maintaining a unix server almost constantly since 1998 when he began work as an Apple Retail Representative and installed RedHat on his iMac. He then went on to be a Tier 2 technician for Darwin Networks, and after the dot.com bust he found work on political and advocacy campaigns including the Louisville Affordable Housing Trust Fund's Open the Door campaign. He is still one of the last few Ruby on Rails enthusiasts.
 
 
-· 2018 community support plan
-    List of key staff and their photos
-    Background qualifications of key staff
-    Testable nodes for community members
-    A certain amount of social media influence:
+• 2018 community support plan  
+ List of key staff and their photos  
+ Background qualifications of key staff  
+ Testable nodes for community members  
+ A certain amount of social media influence:  
 
 
+ TRON Groupsource Node Token (TGNT) Community  
+ • Telegram  
+ [https://t.me/joinchat/IN2p-BFXGu8vByHn3qLyBg](https://t.me/joinchat/IN2p-BFXGu8vByHn3qLyBg)  
 
 
-• TRON Groupsource Node Token ($TGNT) Community
+ TRON Community  
+ • Reddit  
+ [r/tronix]((http://reddit.com/r/tronix))  
 
-· Telegram
-https://t.me/joinchat/IN2p-BFXGu8vByHn3qLyBg
+ • Twitter  
+ [#tronics](https://twitter.com/search?f=tweets&vertical=default&q=%23tronics&src=typd)
 
-
-• TRON Community
-
-· Reddit
-r/tronix
-
-· Twitter
-#tronics
-
-· Facebook
-https://www.facebook.com/groups/TRONIX.TRX
-
-·
-·
-·
+ • Facebook  
+ [https://www.facebook.com/groups/TRONIX.TRX](https://www.facebook.com/groups/TRONIX.TRX)  
