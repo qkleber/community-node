@@ -22,7 +22,7 @@ Network: 25Gbps
 
 **STAGE 1 SERVER**
 
-**SUPER REPRESENTATIVE CANDIDATE LEVEL**
+**SUPER REPRESENTATIVE CANDIDATE LEVEL**  
  8 	GB RAM  
  4 	CPU Cores  
  96 	GB SSD Storage  
@@ -30,7 +30,7 @@ Network: 25Gbps
  40 	Gbps Network In  
  1000 	Mbps Network Out  
 
-**SUPER REPRESENTATIVE LEVEL I**
+**SUPER REPRESENTATIVE LEVEL I**  
  12 	GB RAM  
  6 	CPU Cores  
  192 	GB SSD Storage  
@@ -38,7 +38,7 @@ Network: 25Gbps
  40 	Gbps Network In  
  1000 	Mbps Network Out  
 
-**SUPER REPRESENTATIVE LEVEL II**
+**SUPER REPRESENTATIVE LEVEL II**  
  60 	GB RAM  
  4 	CPU Cores  
  90 	GB SSD Storage  
@@ -46,7 +46,7 @@ Network: 25Gbps
  40 	Gbps Network In  
  3000 	Mbps Network Out  
 
-**SUPER REPRESENTATIVE LEVEL III**
+**SUPER REPRESENTATIVE LEVEL III**  
  100 	GB RAM  
  8 	CPU Cores  
  200 	GB SSD Storage  
@@ -54,7 +54,7 @@ Network: 25Gbps
  40 	Gbps Network In  
  6000 	Mbps Network Out  
 
-**SUPER REPRESENTATIVE LEVEL IV**
+**SUPER REPRESENTATIVE LEVEL IV**  
  200 	GB RAM  
  16 	CPU Cores  
  340 	GB SSD Storage  
@@ -64,7 +64,7 @@ Network: 25Gbps
 
 
 
-**STAGE 2 SERVER**
+**STAGE 2 SERVER**  
  RackSpace Bare Metal Server  
    
  CPU: 64 cores  

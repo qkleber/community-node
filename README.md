@@ -1,25 +1,29 @@
 # community-node
-TRON Groupsource Node Token (TGNT)  Organizational / Support Plan
+TRON Groupsource Node Token (TGNT)
 
 Since a TRON Network Super Representative is actually a collection of people backed by an organization, I wonder "what if the members of the Reddit, Twitter, and YouTube community banded together to become a Super Representative?" There won't be a seat at the table for any one of us, but perhaps there's one for all of us. Alone we each stand zero chance of winning an election, but together we can vote ourselves in.
 
 I will be running a cloud based MainNet node from day one, starting with a 2 Core VM with a focus on uptime and reliability. I hope to meet the performance levels sufficient to get my node voted into the group of candidates for Super Representative, after which the node may or may not enter rotation as an earning Super Representative. 
 
-Of paramount importance is completing Stage I of the server's technical migration to a 16 Core VM. The cost of running the server for two months will be subtracted from Super Representative rewards before any rewards distributions shall occur. If the server is able to complete just 0.4% of that day's blocks, or 10% of the average, just one day of earning would fund a month at my proposed Level III configuration. 
+Of paramount importance is completing Stage I of the server's technical migration to a 16 Core VM. The cost of running the server for two months will be subtracted from Super Representative rewards before any rewards distributions shall occur. If the server is able to complete just 0.4% of that day's blocks, or 10% of the average, just one day of earning would fund a month at my proposed Level III configuration, thus making the server financially self sufficient.
 
 Rewards will increase until Stage II configurations have begun, wherein I am running a server that meets Tron's recommended configuration to put my node on a level with the top of the heap.
 
 Every day 27 elected Super Representatives will vie for block rewards of 32 TRX per second, or a little more than 2,750,000 TRX per day and an average of about 100,000 TRX per Super Representative. The daily payout is delegated to the 27 Super Representatives for vote based rewards. In other words, the Super Representatives will earn TRX daily, but in order to maintain elected power those Super Representatives must reward the TRX holders who voted for them. Approximately 98% of the rewards earned by the Super Representative node will be distributed to the TRX voters who maintain our position as an earning Super Representative as per the industry standard. 
 
-There are 1 Billion TRX rewards to be distributed among the 65 Billion TRX coins every year. A TRX holder who faithfully votes every single day, and who successfully spends every vote on winning Super Representatives might be able to earn 1.5% annually. 
+There are 1 Billion TRX rewards to be distributed among the 65 Billion TRX coins every year. A TRX holder who faithfully votes every single day, and who successfully casts every vote for a winning Super Representative, might be able to earn 1.5% annually. 
 
 The one thing that my business plan is missing is the ability to consistently win the daily election as Super Representative. I'm just a guy with a small node. No one has any incentive to vote for me. But if I give TRX holders a stake in my node they will be more likely to vote for that node.
 
-My proposal is to create a TRX-20 token, the TRON Groupsource Node Token (TGNT), available to all members of the Tron/TRX community.
+My proposal is to create a TRX-20 token, the TRON Groupsource Node Token (TGNT), available to all members of the Tron/TRX community. It will have a value equal to TRX.
 
-As principals of the TGNT organization TGNT owners will have voting rights. The primary question for token referendums will be the amount of rewards to be shared with TRX holders who voted for this node as Super Representative.
+The purpose of TGNT is two fold. First, it accrues TRX coins and subsequently locks in those votes for Super Representative. The purpose of TGNT is not to have all of our supporters replace their TRX coins with our own tokens, but instead to give a vast number of TRX advocates a reason to prefer one Super Representative candidate over another.
+ 
+The goal of TGNT is to create a broad base of support among TRX coin holders who wish to wield their inherent right to participate in the management of the TRON network. 
 
-TGNT will empower token holders with more than just the management of the organization. The goal of TGNT is to create a broad base of support among TRX coin holders who wish to wield their inherent right to participate in the management of the TRON network. One of the roles of Super Representative will be 
+As principals of the TGNT organization, TGNT owners will have voting rights. The primary question for token referendums will be the amount of rewards to be shared with TRX holders who voted for this node as Super Representative.
+
+TGNT will empower token holders with more than just the management of the organization. One of the roles of Super Representative will be 
 
 >To Influence Up to Date and Applicable Business Direction Decisions
 >
