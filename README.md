@@ -50,5 +50,6 @@ As expenses are met, rewards will increase until the commencement of Stage II: T
 
 Token holders will participate in quarterly elections to select corporate officers and the lead project admin who is currently me. So if the organization wants to pull an Apple computer on my ass and say that the guy who built it sucks and you think you can do better, then I can be voted out. Hopefully by that time I will have earned enough tokens that my residual income makes all of my setup effort worthwhile.
 
-Eventually TGNT will become diluted from the issuance of staff salaries. However TGNT holders will always receive a greater reward than the TRX voters who voted for this Super Representative.
+For every token issued, one TRX must be retained. Therefore TGNT shall not become diluted from the issuance of staff salaries. TGNT holders will always receive a greater reward than the TRX voters who voted for this Super Representative.
 
+The organization will self-destruct in 3 years, or what is scheduled to be the end of the "Great Voyage" stage in TRON development. TGNT holders may opt to vote to continue operations, otherwise all TGNT will expire and be replaced by TRX.
