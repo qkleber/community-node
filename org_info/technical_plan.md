@@ -20,6 +20,11 @@ PORTS OPEN:
  50051/tcp  
  50051/udp  
  *****/tcp (ssh)  
+49585
+49628
+49629
+
+
 
 The node will be configured according to the instructions at my [Witness Node for Newbies guide](https://www.reddit.com/r/tronsupport/comments/8beglx/witness_node_for_newbies)
 

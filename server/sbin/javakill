@@ -1,0 +1,5 @@
+#!/bin/bash
+
+  exec kill -9 `ps -aux | grep java | grep -v grep | awk '{print $2}'`
+
+
