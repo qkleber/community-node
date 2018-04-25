@@ -49,3 +49,10 @@ I am paying out of pocket for the server's introductory level operation. Increas
 As expenses are met, rewards will increase until the commencement of Stage II: The server's technical migration to 16, 32, and finally 64 Core server that meets Tron's recommended configuration to put my node on a level with the top of the heap, at which point expenses will plateau and rewards become consistent.
 
 Token holders will participate in quarterly elections to select corporate officers and the lead project admin who is currently me. So if the organization wants to pull an Apple computer on my ass and say that the guy who built it sucks and you think you can do better, then I can be voted out. Hopefully by that time I will have earned enough tokens that my residual income makes all of my setup effort worthwhile.
+
+Website:
+[tron.communitynode.org](http://tron.communitynode.org)
+
+Telegram
+[TRON Community Node & Super Representative](https://t.me/joinchat/IN2p-BFXGu8vByHn3qLyBg)
+
