@@ -11,8 +11,6 @@
 # Required-Stop:     $remote_fs $syslog $network
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
-# Should-Start:      ufw
-# Should-Stop:       javakill
 # Short-Description: javatron blockchain node
 # Description:       Javatron is a java based blockchain node for the TRON Network
 ### END INIT INFO
@@ -24,7 +22,6 @@ PIDFILE=/var/run/$NAME.pid
 SCRIPTNAME=/etc/init.d/$NAME
 CHUID=root
 JAVA=java
-TERMARGS="kill -9 `ps -aux | grep java | grep -v grep | awk '{print $2}'`"
 
 
 # Exit if the package is not installed
@@ -92,7 +89,7 @@ do_stop()
 
 # kill java instances on process termination
 post-stop script
-    /usr/sbin/javakill
+    javakill
 end script
 
 #
