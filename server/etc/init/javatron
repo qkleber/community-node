@@ -21,7 +21,7 @@ DAEMON=/usr/sbin/$NAME
 PIDFILE=/var/run/$NAME.pid
 SCRIPTNAME=/etc/init.d/$NAME
 CHUID=root
-JAVA=java
+JAVAKILL=/usr/sbin/javakill
 
 
 # Exit if the package is not installed
@@ -65,7 +65,8 @@ do_stop()
    #   1 if daemon was already stopped
    #   2 if daemon could not be stopped
    #   other if a failure occurred
-   start-stop-daemon --stop --quiet --retry=TERM/30/KILL/5 --pidfile $PIDFILE --name $NAME
+   start-stop-daemon --stop --quiet --retry=TERM/30/KILL/5 --pidfile $PIDFILE --name $NAME 
+   echo -n "trying to kill this mother"
    RETVAL="$?"
    [ "$RETVAL" = 2 ] && return 2
    #Having a problem with threads left active after the process quits, so terminating them by name
@@ -81,16 +82,15 @@ do_stop()
    # needed by services started subsequently.  A last resort is to
    # sleep for some time.
    start-stop-daemon --stop --quiet --oknodo --retry=0/30/KILL/5 --exec $DAEMON
+   # kill persistant instances
    [ "$?" = 2 ] && return 2
    # Many daemons don't delete their pidfiles when they exit.
    rm -f $PIDFILE
+
    return "$RETVAL"
+
 }
 
-# kill java instances on process termination
-post-stop script
-    javakill
-end script
 
 #
 # Function that sends a SIGHUP to the daemon/service

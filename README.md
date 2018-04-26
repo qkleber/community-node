@@ -38,7 +38,7 @@ Questions facing the Super Representative could be:
 > Updates or Creation of Bounties, Campaigns or Incentives  
   
 
-Management of the server will begin as a volunteer position and will initially be left to me. I will accept open source contributions, because I know what I'm doing but I don't know everything. There will be a board of directors and a clear line of succession for system administrators. A dead man's switch will be set so if I fail to login for a predetermined length of time (think a week or so) then the #2 will gain my ssh private key and other pertinent admin info. This will be a 24/7/365 full time job and pay ought to be commensurate with the growing responsibility, and will be provided in TGNT. 
+Management of the server will begin as a volunteer position and will initially be left to me. I will accept open source contributions, because I know what I'm doing but I don't know everything. The executives of the organization (President, CEO, CTO, CFO) along with the board of directors will directly hire the remaining staff, including a clear line of succession for system administrators. There will be 2 SysAdmins at all times. This will be a 24/7/365 full time job and pay ought to be commensurate with the growing responsibility.
 
 Should the server node be selected as a Super Representative, I will resize the VM to a more robust configuration for as long as it is an earning witness node.
 
