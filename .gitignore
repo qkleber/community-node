@@ -1,3 +1,5 @@
 config.conf
 
 /server/web/node-modules/
+
+/server/server_build

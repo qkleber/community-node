@@ -1,3 +1,7 @@
+https://medium.com/@Tronfoundation/tron-community-guidelines-ca10c2fcd444
+
+
+
 http://beans.bondibox.com
 
     Company Location: N/A
