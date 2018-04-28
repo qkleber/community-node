@@ -1,5 +1,7 @@
-config.conf
+
 
 /server/web/node-modules/
-
-/server/server_build
+/server/doc/server_build
+/server/java-tron/
+/server/java-tron/*
+/server/etc/config/sshd.conf
