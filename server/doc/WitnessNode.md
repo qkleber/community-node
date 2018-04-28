@@ -70,7 +70,7 @@ This is just a node. The next step is to set up a witness node using the informa
     nano config.conf    
 There is only one key piece of information to enter here - the private key in the localwitnesses block. However if you don't specify your IP address it will have to probe for it on startup and that takes a few seconds, so I like to hardcode the IP information. Google cloud users will have two IP addresses. It may work best by configuring separate IP's like this. Use actual IP addresses. I have both of those configured for my one public IP even though I also have an internal subnet IP. 
 
-###config.conf changes###
+**config.conf changes**
 
     node.discovery = {
       enable = true
@@ -102,14 +102,16 @@ The TRON Developers recommend starting up a different way. They say don't put yo
     cd build/libs
     java -jar java-tron.jar -p private_key --witness -c config_path
 
-####Example:####
+**Example:**
 
     java -jar java-tron.jar -p 650950B193DDDDB35B6E48912DD28F7AB0E7140C1BFDEFD493348F02295BD812 --witness -c /data/java-tron/config.conf
 
 .  
 
 
-** SKIP TO THE END OF THIS DOCUMENT TO SEE EXAMPLE LOG FILES **
+**SKIP TO THE END OF THIS DOCUMENT TO SEE EXAMPLE LOG FILES**
+
+.  
 
 **STEP 4 Install Command Line Wallet**
 
