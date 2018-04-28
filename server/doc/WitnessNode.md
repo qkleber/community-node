@@ -19,34 +19,41 @@ In case you didn't notice, it opened that folder in the finder. If you have anyt
 
 For **Debian or Ubuntu**, After the initial o/s install, you want to update with any new patches
 
-    sudo apt-get update
-    sudo apt-get upgrade
+update operating system
+    apt-get update && apt-get -y upgrade
+
+
 Add the java repository to the apt-cache
+    add-apt-repository ppa:webupd8team/java
+    apt-get update
 
-    sudo add-apt-repository ppa:webupd8team/java
-    sudo apt-get update
+We'll install needed packages & helpful tools
 
-We'll also install needed packages & helpful tools
+    apt-get -y -V install build-essential git git-core locate curl libcurl4-openssl-dev wget javascript-common libjs-jquery libcap2-bin software-properties-common unzip zip unattended-upgrades libcap2-bin
 
-    apt-get -y -V install nodejs build-essential git git-core locate curl libcurl4-openssl-dev wget javascript-common libjs-jquery unzip zip unattended-upgrades libcap2-bin oracle-java8-installer
-
-Then, for the love of everything holy, set security updates to automatically install.
+Then, for the love of all that is holy, set security updates to automatically install.
 
     echo 'APT::Periodic::Update-Package-Lists "1";' >> /etc/apt/apt.conf.d/20auto-upgrades
-	echo 'APT::Periodic::Unattended-Upgrade "1";' >> /etc/apt/apt.conf.d/20auto-upgrades
+    echo 'APT::Periodic::Unattended-Upgrade "1";' >> /etc/apt/apt.conf.d/20auto-upgrades
+
+Add the java repository to the apt-cache
+
+    add-apt-repository ppa:webupd8team/java
+    apt-get update
+    apt-get -y -V install oracle-java8-installer npm --allow-unauthenticated
 
 The node.js that comes with the standard debian package is insufficient. Remove it, and then download the full package.
 
-	sudo apt-get remove nodejs
-	sudo apt-get remove npm	
-	cd /tmp
-	curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
-	sudo apt-get install -y nodejs
-	sudo apt-get install -y npm
+    apt-get remove nodejs
+    apt-get remove npm	
+    cd /tmp
+    curl -sL https://deb.nodesource.com/setup_6.x | sudo bash -
+    apt-get install -y nodejs
+    apt-get install -y npm
 
 Install the grpc because I think it's needed for protobuf
 
-	sudo npm install grpc
+    npm install grpc
 
 
 **THE REST OF THIS DOC IS THE SAME FOR ALL O/S** Although it's written for linux users. If you're on a Mac you ought to be able to figure out how to copy, edit and delete files.
