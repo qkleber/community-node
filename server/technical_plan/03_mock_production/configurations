@@ -1,0 +1,31 @@
+**MOCK PRODUCTION LEVEL**  
+
+Server Name "Division" NGINX PROXY 
+Nanode  $5 / mo
+ 1 		GB RAM
+ 1 		CPU Core
+ 20 	GB SSD Storage
+ 1 		TB Transfer
+ 40 	Gbps Network In
+ 1	 	Gbps Network Out
+
+
+Server Name "Beast" Java-Tron 
+Full Node  $80 / mo
+ 12 	GB RAM  
+ 6 		CPU Cores  
+ 192 	GB SSD Storage  
+ 8 		TB Transfer (+ .02¢ per GB)
+ 40 	Gbps Network In  
+ 1	 	Gbps Network Out  
+
+
+
+Server name "Bugle" Mail & Web 
+Nanode services slave $5 / mo
+ 1 		GB RAM
+ 1 		CPU Core
+ 20 	GB SSD Storage
+ 1 		TB Transfer
+ 40 	Gbps Network In
+ 1	 	Gbps Network Out

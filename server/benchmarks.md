@@ -13,3 +13,6 @@ This Month Traffic: 1% Provision
 
 
  ./jmeter/bin/jmeter -n -t ./jmeter/bin/jmeter-setting.jmx -l test_result.jtl -e -o /resultReport
+
+
+Full Node ping times are 33% faster from several data center locations to test server (23.239.19.106) than to TRON's closest AWS instance (18.188.111.53).

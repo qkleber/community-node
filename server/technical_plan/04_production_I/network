@@ -1,0 +1,25 @@
+**PRODUCTION LEVEL ONE NETWORK CONFIGURATION**  
+
+
+23.239.19.106	division.communitynode.org tron.communitynode.org
+	NGINX
+
+
+10.0.0.3	beast.communitynode.org		
+	Java-Tron Full Node
+
+
+10.0.0.4 seed1.communitynode.org
+	Java-Tron Solidity Slave Node
+	Wallet-Cli
+	Wallet-Web
+
+
+10.0.0.5 seed2.communitynode.org
+	Java-Tron Solidity Slave Node
+
+
+23.239.19.xx bugle.communitynode.org mail.communitynode.org www.communityode.org
+	Exim
+	Node.js
+	

@@ -1,0 +1,88 @@
+**PRODUCTION LEVEL FOUR SERVER CONFIGURATIONS**  
+
+
+23.239.19.106	division.communitynode.org tron.communitynode.org
+	NGINX PROXY Nanode  $20 / mo
+ 4	 	GB RAM  
+ 2 		CPU Cores  
+ 46 	GB SSD Storage  
+ 40 	Gbps Network In  
+ 1	 	Gbps Network Out  
+ 2256	MB Swap  
+
+
+
+
+10.0.0.3	beast.communitynode.org		
+	Java-Tron Full Node	  	$960 / mo
+ 200 	GB RAM  
+ 16 	CPU Cores  
+ 340 	GB SSD Storage  
+ 9 		TB Transfer  (+ .02¢ per GB)
+ 40 	Gbps Network In  
+ 10 	Gbps Network Out  
+
+
+
+
+23.239.19.xx mail.communitynode.org www.communityode.org
+	Nanode services slave	$5 / mo
+ 1 		GB RAM
+ 1 		CPU Core
+ 20 	GB SSD Storage
+ 1 		TB Transfer
+ 40 	Gbps Network In
+ 1	 	Gbps Network Out
+
+
+
+
+10.0.0.4 seed1.communitynode.org
+	Java-Tron Solidity Seed Slave  $40 / mo
+ 8 		GB RAM  
+ 4 		CPU Cores  
+ 96 	GB SSD Storage  
+ 4 		TB Transfer  
+ 40 	Gbps Network In  
+ 1 		Gbps Network Out  
+
+
+ 
+
+10.0.0.5 seed12.communitynode.org
+	Java-Tron Solidity Seed Slave $40 / mo
+ 8 		GB RAM  
+ 4 		CPU Cores  
+ 96 	GB SSD Storage  
+ 4 		TB Transfer  
+ 40 	Gbps Network In  
+ 1 		Gbps Network Out  
+
+ 
+
+
+
+23.239.19.xx sprout1.communitynode.org
+	Java-Tron Solidity Slave Node  $40 / mo
+ 8 		GB RAM  
+ 4 		CPU Cores  
+ 96 	GB SSD Storage  
+ 4 		TB Transfer  
+ 40 	Gbps Network In  
+ 1 		Gbps Network Out  
+
+ 
+
+
+
+23.239.19.xx sprout2.communitynode.org
+	Java-Tron Solidity Slave Node $40 / mo
+ 8 		GB RAM  
+ 4 		CPU Cores  
+ 96 	GB SSD Storage  
+ 4 		TB Transfer  
+ 40 	Gbps Network In  
+ 1 		Gbps Network Out  
+
+ 
+

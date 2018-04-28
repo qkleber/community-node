@@ -1,3 +1,33 @@
+Current Configuration: 
+Alpha Test
+
+May 7, 2019
+Beta Test
+
+May 24, 2018
+Mock Production
+
+June 1, 2018
+Production Level One
+
+June 18, 2018
+Stage 1 Production Level Two
+
+Super Representative Candidate:
+Stage 1 Production Level Three
+
+Super Representative Pinto:
+Stage 1 Production Level Four
+
+Super Representative Grande:
+Stage 2 Production Server Level One
+
+Super Representative Muy Grande:
+Stage 2 Production Server Level Two
+
+
+
+
 These are the proposed upgrade migration configurations  
 Server resize takes approximately 15 minutes.
 
@@ -10,14 +40,15 @@ SSD: 1T(EBS)
 Network: 25Gbps
 
 
-### TEST NET CONFIGURATION $20 / mo
+### TEST NET CONFIGURATION ###
+ $20 / mo
  2500 MHz Intel(R) Celeron(R) M processor  
  4	 	GB RAM  
  2 		CPU Cores  
- 48 	GB SSD Storage  
+ 46 	GB SSD Storage  
  40 	Gbps Network In  
  1	 	Gbps Network Out  
- 8 		GB Swap  
+ 2256	MB Swap  
 
 
 **STAGE 1 SERVER**

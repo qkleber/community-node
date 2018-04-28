@@ -1,0 +1,22 @@
+
+###  CURRENT (ALPHA TEST) CONFIGURATION
+
+Debian GNU/Linux 9.1 (stretch) 4.15.12-x86_64
+ 2500 MHz Intel(R) Celeron(R) M processor
+ 4	 	GB RAM  
+ 2 		CPU Cores  
+ 46 	GB SSD Storage  
+ 2256	SWAP
+
+oracle-java8 Version: 8u161-1\~webupd8\~0
+
+SERVICES:
+java-tron
+wallet-web
+wallet-cli
+http
+
+
+The full node will be configured according to the instructions at my Witness Node guide
+https://github.com/bondibox/community-node/tree/master/server/WitnessNode.md
+
