@@ -328,5 +328,4 @@ Here's a command to extract the display of discovered nodes.
 
 
 
-If java-tron crashes or exits ungracefully you may get hanging threads
-
+Next article - Adding a Solidity Node
