@@ -87,6 +87,7 @@ There is only one key piece of information to enter here - the private key in th
 
 
 
+
 O.K. now when the tron machine starts up it's not just running a node, it's running *your* node.
 
 If you've made any changes when you restart ~/java-tron, you'll need to throw away the database directory. While you're at it, start the logs fresh.
@@ -101,8 +102,11 @@ The TRON Developers recommend starting up a different way. They say don't put yo
     cd build/libs
     java -jar java-tron.jar -p private_key --witness -c config_path
 
-###Example:###
-###ava -jar java-tron.jar -p 650950B193DDDDB35B6E48912DD28F7AB0E7140C1BFDEFD493348F02295BD812 --witness -c /data/java-tron/config.conf###
+####Example:####
+
+    java -jar java-tron.jar -p 650950B193DDDDB35B6E48912DD28F7AB0E7140C1BFDEFD493348F02295BD812 --witness -c /data/java-tron/config.conf
+
+.  
 
 
 ** SKIP TO THE END OF THIS DOCUMENT TO SEE EXAMPLE LOG FILES **
