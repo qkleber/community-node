@@ -19,9 +19,7 @@ In case you didn't notice, it opened that folder in the finder. If you have anyt
 
 For **Debian or Ubuntu**, After the initial o/s install, you want to update with any new patches
 
-update operating system
     apt-get update && apt-get -y upgrade
-
 
 Add the java repository to the apt-cache
     add-apt-repository ppa:webupd8team/java
