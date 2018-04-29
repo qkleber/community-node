@@ -1,7 +1,5 @@
 Rewards Plan
 
-A Super Representative Witness Node Candidate can become elected to be a Super Representative node. This puts the node in a trusted position along with 26 other nodes to produce blocks at the rate of one per second. The TRON Foundation will pay 32 TRX per block produced.
-
 Every day, 27 newly elected Super Representatives will alternate producing block at one per second rewarded with 32 TRX, or approximately 2,750,000 TRX per day and 100,000 TRX per Super Representative.
 
 
