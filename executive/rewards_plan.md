@@ -26,7 +26,7 @@ This gives us a range of 9-35 Billion votes split among the remaining competitio
 
 Remember my original calculation of 1.5% was based on splitting the 1 Billion rewards evenly over the 65 Billion TRX and 27 SRs, working out to 2.4 Billion rewardable votes per SR. Based on my test case, if the actual number of votes for the last winning SR is 240 million, then the payout would be 10 times 1.5% = 15% annual (gross before expenses). 
 
-I expect there will be a strategy among TRX voters to try and vote for the last winning Super Representative since they will have the highest reward that day. Thus there will be an ebb and flow as the smaller 85 candidates fall in and out of favor.  It would be imprudent for us to assume that an earning position can be attained 365 days a year, even if we offer a more lucrative rewards plan than the competition.
+I expect there will be a strategy among TRX voters to try and vote for the last winning Super Representative since they will have the highest reward that day. Thus there will be an ebb and flow as the smaller 85 candidates fall in and out of favor.  It would be imprudent for us to assume that an earning position can be attained 365 days a year, even if we offer a more generous rewards plan than the competition.
 
 
 The current proposal is to create a TGNT token. The value of TGNT will be priced in TRX and tethered to it in a 1:1 trading pair. Proceeds from the sale of TGNT will be held in escrow to maintain a liquid market. For every token issued, one TRX must be retained.
@@ -34,7 +34,7 @@ The current proposal is to create a TGNT token. The value of TGNT will be priced
 All operating expenses will come from the gross block earnings before rewards are met. Therefore TGNT shall not become diluted and will maintain its value of 1 TRX at all times, although demand for TGNT may warrant that it become decoupled from TRX and placed on an exchange. The current proposal is to issue 240 million TGNT to represent the estimated number of votes a Super Representative might need to win.
 
 
-Our TGNT token will give the lion's share of our node's rewards to our token holders, on an equity based system. Those who get in earliest, and keep their TRX with us, will get the highest rewards. Newcomers to the token will be on a lower pay tier, and regular TRX holders who voted for us will be on the lowest tier, using a formula [similar to this one](https://docs.google.com/spreadsheets/d/1Q2zNntZ7wF5Q9E2Eg1zrRR2Xsmku0GZR_cSFDVYdeI0/edit#gid=0)
+Our TGNT token will give the lion's share of our node's rewards to our token holders, on an fidelity based system. Those who get in earliest, and keep their TRX with us, will get the highest rewards. Newcomers to the token will be on a lower pay tier, and regular TRX holders who voted for us will be on the lowest tier, using a formula [similar to this one](https://docs.google.com/spreadsheets/d/1Q2zNntZ7wF5Q9E2Eg1zrRR2Xsmku0GZR_cSFDVYdeI0/edit#gid=0).
 
 
 
