@@ -1,6 +1,6 @@
 Rewards Plan
 
-Every day, 27 newly elected Super Representatives will alternate producing block at one per second rewarded with 32 TRX, or approximately 2,750,000 TRX per day and 100,000 TRX per Super Representative.
+Every day, 27 newly elected Super Representatives will alternate producing blocks at one per second rewarded with 32 TRX, or approximately 2,750,000 TRX per day and 100,000 TRX per Super Representative.
 
 
     Givens:
