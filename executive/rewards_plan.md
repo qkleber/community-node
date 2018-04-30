@@ -34,7 +34,7 @@ The current proposal is to create a TGNT token. The value of TGNT will be priced
 All operating expenses will come from the gross block earnings before rewards are met. Therefore TGNT shall not become diluted and will maintain its value of 1 TRX at all times, although demand for TGNT may warrant that it become decoupled from TRX and placed on an exchange. The current proposal is to issue 240 million TGNT to represent the estimated number of votes a Super Representative might need to win.
 
 
-Our TGNT token will give the lion's share of our node's rewards to our token holders, on an fidelity based system. Those who get in earliest, and keep their TRX with us, will get the highest rewards. Newcomers to the token will be on a lower pay tier, and regular TRX holders who voted for us will be on the lowest tier, using a formula [similar to this one](https://docs.google.com/spreadsheets/d/1Q2zNntZ7wF5Q9E2Eg1zrRR2Xsmku0GZR_cSFDVYdeI0/edit#gid=0).
+Our TGNT token will give the lion's share of our node's rewards to our token holders, on a fidelity based system. Those who get in earliest, and keep their TRX with us, will get the highest rewards. Newcomers to the token will be on a lower pay tier, and regular TRX holders who voted for us will be on the lowest tier, using a formula [similar to this one](https://docs.google.com/spreadsheets/d/1Q2zNntZ7wF5Q9E2Eg1zrRR2Xsmku0GZR_cSFDVYdeI0/edit#gid=0).
 
 
 
