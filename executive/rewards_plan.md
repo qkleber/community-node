@@ -6,7 +6,7 @@ Every day, 27 newly elected Super Representatives will alternate producing block
 
 The current proposal is to create a TGNT token. The value of TGNT will be priced in TRX and tethered to it in a 1:1 trading pair. Proceeds from the sale of TGNT will be held in escrow to maintain a liquid market. For every token issued, one TRX must be retained. Therefore TGNT shall not become diluted and will maintain its value of 1 TRX at all times. TGNT holders may divest at any time for at the same 1:1 ratio with TRX.
 
-There will be no risk. No debt will be incurred, and the proceeds from TGNT will not go toward operating expenses. We don't want to use the equity of your TRX, we just want to manage your voting rights.
+There will be very little risk. No debt will be incurred, and the proceeds from TGNT will not go toward operating expenses. We don't want to use the equity of your TRX, we just want to manage your voting rights.
 
 Ww will issue 500 million TGNT, which represents the estimated number of votes a Super Representative might need to win.
 
